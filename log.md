@@ -13,5 +13,3 @@ import numpy as np
 img = Image.open("./image-np.jpeg")
 img_array = np.array(img)
 print(img_array)
-
-#### Date: 26th Nov 2026
