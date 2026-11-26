@@ -28,3 +28,7 @@ print(one)
 
 
 another problem is added to prob2.py
+
+#### Date: 26th Nov 2026
+
+Cloned keith galli's pandas repo https://github.com/KeithGalli/complete-pandas-tutorial and started with some of the basics
