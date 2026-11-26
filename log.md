@@ -18,10 +18,13 @@ print(img_array)
 
 Watched the same keith galli numpy video again, and did some of the exercises in the video
 
-solved a problem from the video
+solved a problem from the video - prob.py
 
 one = np.ones((5,5))
 zero = np.zeros((3,3))
 zero[1,1] = 9
 one[1:4,1:4] = zero
 print(one)
+
+
+another problem is added to prob2.py
