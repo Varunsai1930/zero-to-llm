@@ -1,12 +1,3 @@
-zero-to-llm/
-├── README.md        ← phase table + progress checkboxes
-├── log.md           ← weekly: hours / shipped / stuck
-├── papers/          ← 5-line summary per paper, your own words
-├── phase-1-ml/
-├── phase-2-tinygpt/
-├── capstone-assistant/
-└── hunt/applications.md
-
 # 🗺️ The 6-Month Map (Nov 23 → May 23)
 
 | Phase | Dates | You'll build | Paper |
