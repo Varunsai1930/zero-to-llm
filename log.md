@@ -35,3 +35,7 @@ Cloned keith galli's pandas repo https://github.com/KeithGalli/complete-pandas-t
 
 ##### Time: 22:36
 Done with the first exercise in Kaggle on Pandas course 
+
+### Date: 27th Nov 2026
+
+Done with second module of the pandas course
